@@ -100,7 +100,6 @@ const ToggleButton = styled.button`
 `;
 const Images = styled.img`
 width: 100%;
-height: 100%;
 
 `
 
@@ -123,6 +122,7 @@ const handleSubmit = (e) => {
      <Containers>
 <Banner>
   <Images src={img}  />
+ 
 </Banner>
 <Feilds>
 

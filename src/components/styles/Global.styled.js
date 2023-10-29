@@ -31,13 +31,15 @@ align-items: center;
 export const Banner= styled.section`
 width:40%;
 height:100%;
+padding-left:40px;
 @media (max-width: 768px) {
     width:100%;
-
+    padding-left:0px;
   }
 
   @media (min-width: 769px) and (max-width: 1023px) {
    width:100%;
+   padding-left:0px;
   }
 `;
 export const Feilds= styled.section`
@@ -46,7 +48,7 @@ height:100%;
 margin:auto;
 justify-content: center;
 align-items: center;
-padding-20px;
+
 @media (max-width: 768px) {
     /* Styles for mobile devices */
    width:100%;
