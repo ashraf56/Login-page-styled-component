@@ -1,4 +1,4 @@
-# Technology used:
+# Technology used
 - React js
 - vite
 - Styled components

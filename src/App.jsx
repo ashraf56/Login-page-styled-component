@@ -119,7 +119,7 @@ const handleSubmit = (e) => {
 };
 
   return (
-    <>
+   
      <Containers>
 <Banner>
   <Images src={img}  />
@@ -201,7 +201,7 @@ const handleSubmit = (e) => {
    
      
       </Containers>
-    </>
+
   )
 }
 

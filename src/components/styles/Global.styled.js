@@ -2,24 +2,23 @@ import styled from "styled-components";
 
 
 
+
+
 export const Containers =styled.section`
 min-width:90%;
-min-height: 100%;
-margin:auto;
-margin-top:40px;
+min-height: 90vh;
 padding:20px;
 font-family: 'Poppins';
 display:flex;
 align-items: center;
 
-
 @media (max-width: 768px) {
     display:block
-   
+     
   }
 
   @media (min-width: 769px) and (max-width: 1023px) {
-
+  
     display:block  
    
 }
