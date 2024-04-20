@@ -8,4 +8,4 @@ https://login-page-styled-component.vercel.app/
 
 # Demo Img
 
-![Project image]([/public/home.png](https://i.ibb.co/FgCnKG6/login-page-styled-component-vercel-app.png))
+![Project image](https://i.ibb.co/FgCnKG6/login-page-styled-component-vercel-app.png)
